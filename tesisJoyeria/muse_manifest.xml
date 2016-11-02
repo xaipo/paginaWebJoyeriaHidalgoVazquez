@@ -1,0 +1,53 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="JoyeriaVazquez.com" resolutions="1x" timestamp="1478042488202">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="untitled-2.css" crc="4117966227" ref="untitled-2"/>
+    <file name="index.css" crc="30736439" ref="index"/>
+    <file name="master_a-master.css" crc="38256045" ref="index:untitled-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="531812214" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="84559013" ref="index:untitled-2"/>
+    <file name="webpro.js" crc="4156477058" ref="index"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="untitled-2"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:untitled-2"/>
+    <file name="form_check.php" crc="373582055" ref="index"/>
+    <file name="form_throttle.php" crc="211381018" ref="index"/>
+    <file name="form_process.php" crc="6354943" ref="index"/>
+    <file name="form-u1552.php" crc="4291561019" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.svg" crc="4109294085" ref="untitled-2"/>
+    <file name="logo_poster_.png" crc="4272025247" ref="untitled-2"/>
+    <file name="logobn.svg" crc="118149651" ref="index"/>
+    <file name="logobn_poster_.png" crc="3961766434" ref="index"/>
+    <file name="header.png" crc="243286246" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="851x3152.jpg" crc="73836044" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="220-btns7.jpg" crc="331305936" seo="true" ref="index:untitled-2"/>
+    <file name="todalagaleria.jpg" crc="456365883" seo="true" ref="index"/>
+    <file name="220-btns25.jpg" crc="71690281" seo="true" ref="index:untitled-2"/>
+    <file name="220-btns42.jpg" crc="4226748404" seo="true" ref="index:untitled-2"/>
+    <file name="220-btns.jpg" crc="26565781" seo="true" ref="index:untitled-2"/>
+    <file name="220-btns40.jpg" crc="3907542696" seo="true" ref="index:untitled-2"/>
+    <file name="smediaf.png" crc="23189970" seo="true" ref="index"/>
+    <file name="smediag.png" crc="318631074" seo="true" ref="index"/>
+    <file name="u1568-17.png" crc="380298718" ref="index"/>
+    <file name="u1568-17-r.png" crc="4027672137" ref="index"/>
+    <file name="u1568-17-m.png" crc="121147933" ref="index"/>
+    <file name="u1568-17-fs.png" crc="3969154064" ref="index"/>
+    <file name="ic_phone_black_48px.svg" crc="410061372" ref="index"/>
+    <file name="ic_phone_black_48px_poster_.png" crc="3828318885" ref="index"/>
+    <file name="ic_phone_iphone_black_48px.svg" crc="91287654" ref="index"/>
+    <file name="ic_phone_iphone_black_48px_poster_.png" crc="4087079241" ref="index"/>
+    <file name="ic_email_black_48px.svg" crc="4097517899" ref="index"/>
+    <file name="ic_email_black_48px_poster_.png" crc="207434617" ref="index"/>
+  </folder>
+  <file name="index.html" crc="74377823" seo="true" mt="1478042480923" redirect="true"/>
+  <file name="untitled-2.html" crc="4146653626" seo="true" mt="1477709233275" redirect="true"/>
+</manifest>

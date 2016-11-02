@@ -1,0 +1,35 @@
+<div class="panel" ng-init="ini">
+
+    <div class="row" style="margin-left: 5%; margin-right: 5%"><br><br><br><br><br><br><br><br><br>
+
+        <img  class="col-md-12 col-xs-12" style=" width: 25%; height: 25%;" data-toggle="modal" data-target="#myModal" ng-repeat="aux in images" src="{{aux.url}}" alt="imagen no cargada"  ng-model="selectedImg" ng-click="selected(aux)"/>
+
+    </div>
+
+
+</div>
+
+
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Dijes</h4>
+            </div>
+            <div class="modal-body">
+                <img class="imagen" src="{{selectedImg.url}}" alt="cargando imagen">
+            </div>
+            <div class="modal-footer">
+                <br>
+                <h1 accept-charset="utf-8" style="text-align: center">C&#243digo: {{selectedImg.codigo}}</h1><br><br>
+                <h2 accept-charset="utf-8" style="text-align: left" ng-bind-html="selectedImg.caption"></h2><br><br>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
